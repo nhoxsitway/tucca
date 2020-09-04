@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container
+{
+	width: 1150px;
+	height: 2208px;
+	background-color:#FFFFFF;
+	margin: 0 auto;
+	
+}
+
+.tungo
+{
+	width: 700.055px;
+	height: 63.43px;
+	background-color:#FFFFFF;
+	float: right;
+}
+
+.tungovuong
+{
+	width: 120.055px;
+	height: 29.54px;
+	background-color:yellow;
+	float: left;
+	margin: 5px 15px 5px 0;
+	display: flex;
+	justify-content: center;
+	
+}
+.khunghinh
+{
+	width: 45%;
+	height: 63.43px;
+	background-color:sienna;
+	float: left;
+	
+}
+
+.khunggioithieu
+{
+	width: 55%;
+	height: 63.43px;
+	background-color:red;
+	float:right;
+	
+}
+
+.logo
+{
+	width: 100%;
+	height: 63.43px;
+	background-color:#FFFFFF;
+
+}
+
+.tailor
+{
+	width: 100%;
+	height: 561.7px;
+	background-color:#58595b;
+}
+
+.hinhongchu
+{
+	width: 50%;
+	height: 561.7px;
+	background-color:#639AD2;
+	float: left;
+}
+
+.chubencanhongchu
+{
+	width: 50%;
+	height: 561.7px;
+	background-color:cadetblue;
+	float: right;
+}
+
+.measure
+{
+	width: 100%;
+	height: 196.09px;
+	background-color:#6d6e70;
+}
+
+.comeseeus
+{
+	width: 100%;
+	height: 251.234px;
+	background-color:#FFFFFF;
+}
+
+.visitus
+{
+	width: 100%;
+	height: 273.702px;
+	background-color:#6D6F71;
+	
+}
+
+.indochino
+{
+	width: 100%;
+	height: 324.255px;
+	background-color:#FFFFFF;
+	display: flex;
+	justify-content: center;
+}
+
+.khunglogo
+{
+	width: 100%;
+	height: 92.426px;
+	background-color:#6D6F71;
+
+}
+.khungovuongnho
+{
+	width: 736.086px;
+	height: 289.532px;
+	background-color:#FFFFFF;
+	
+}
+.ovuongnho
+{
+	width: 140.936px;
+	height: 140.936px;
+	background-color:#FFFFFF;
+	float: left;
+	margin: 0 2px 2px 4px;
+	display: flex;
+	justify-content:center;
+		
+}
+.goodtobe
+{
+	width: 100%;
+	height: 292.085px;
+	background-color:#6D6F71;
+}
+
+.cuoicung
+{
+	width: 100%;
+	height: 153.078px;
+	background-color:blue;
+}
+
+ul
+{
+ list-style: none;
+
+}
+
+
+
+ul li 
+{
+list-style: none;
+text-decoration: none;
+color: #58585A;	
+padding: 0 0 0 80px;
+float: left;
+}
+
+ul li a
+{
+text-decoration: none;
+color: #58585A;	
+	
+}
+
+
+
+
